@@ -1,7 +1,5 @@
 # DPDLLM
 
-The source code for Findings of ACL 2024 paper "
-
 [Title] DPDLLM: A Black-box Framework for Detecting Pre-training Data from Large Language Models
 
 [Authors] Baohang Zhou, Zezhong Wang, Lingzhi Wang, Hongru Wang, Ying Zhang, Kehui Song, Xuhui Sui, Kam-Fai Wong
